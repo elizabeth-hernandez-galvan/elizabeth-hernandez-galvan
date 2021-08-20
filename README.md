@@ -13,11 +13,11 @@ Main Interest: Website Design
     - UC Davis Classes
   - Programing
     - UC Davis Classes
-  - modifying websites to different screen sizes
+  - Modifying websites to different screen sizes
     - Bitwise Class
-  - social media marketing
+  - Social media marketing
     - Facebook Coursera Classes
 - :office: Most Current Work
   - Took part in a remote internship as part of SMASH Rising (Summer 2021)
-    - partnered with DoorDash and Bitwise to design and create a better Dasher navigation app
+    - Partnered with DoorDash and Bitwise to design and create a better Dasher navigation app
 - :mailbox_with_mail: How to reach me: [elizabeth.hernandez-galvan@scholar.smash.org](elizabeth.hernandez-galvan@scholar.smash.org)
