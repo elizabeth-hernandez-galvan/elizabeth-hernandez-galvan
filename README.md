@@ -2,7 +2,7 @@
 # Elizabeth Hernandez Galvan
 ### **Sophmore Student at University of California, Davis --> Class of 2024**
 
-Main Interest: Website Design
+Main Interest: Website Design & Frontend Development
 - :computer: Languages I've Learned:
   - Python
   - C
