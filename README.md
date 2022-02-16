@@ -20,10 +20,10 @@ Main Interest: Website Design & Frontend Development
   - Social media marketing
     - Facebook Coursera Classes
 - :office: Most Current Work
-  - Front End developer working with #include on creating websites for nonprofits
+  - Front End developer working with #include on creating websites for nonprofits (Current)
     - Working with Design Team to replicate prototype 
   - Took part in a remote internship as part of SMASH Rising (Summer 2021)
     - Partnered with DoorDash and Bitwise to design and create a better Dasher navigation app
-  - Took Bitwise Course to learn about responsive web development
+  - Took Bitwise Course to learn about responsive web development (Summer 2021)
     - Learned to modify websites to different screen sizes, using Bootstrap and Media Queries
 - :mailbox_with_mail: How to reach me: [elizabeth.hernandez-galvan@scholar.smash.org](elizabeth.hernandez-galvan@scholar.smash.org)
