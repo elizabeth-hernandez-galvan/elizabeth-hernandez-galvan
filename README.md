@@ -24,7 +24,7 @@
     - Facebook Coursera Classes
     
 ## :office: Most Current Work
-  - Front End developer working with #include on creating websites for nonprofits (Current)
+  - Front End developer working with #include on creating websites for nonprofits (2021-2022)
     - Working with Design Team to replicate prototype 
   - Took part in a remote internship as part of SMASH Rising (Summer 2021)
     - Partnered with DoorDash and Bitwise to design and create a better Dasher navigation app
