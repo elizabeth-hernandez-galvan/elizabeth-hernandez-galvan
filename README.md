@@ -1,6 +1,6 @@
 
 # Elizabeth Hernandez Galvan
-### **Sophmore Student at University of California, Davis --> Class of 2024**
+### **Junior Student at University of California, Davis --> Class of 2024**
 
 ## Main Interest: Website Design & Frontend Development
 - :computer: Languages I've Learned:
@@ -24,7 +24,10 @@
     - Facebook Coursera Classes
     
 ## :office: Most Current Work
-  - Front End developer working with #include on creating websites for nonprofits (2021-2022)
+  - Mac Laptop Refurbisher with iDream-The MAC Give Back Project (Summer 2022 - Current)
+    - Refurbished and enhanced used Apple devices and computers
+    - Provide technical and educational support for Apple recipients
+  - Front End developer working with #include on creating websites for nonprofits (2021-2022 School Year)
     - Working with Design Team to replicate prototype 
   - Took part in a remote internship as part of SMASH Rising (Summer 2021)
     - Partnered with DoorDash and Bitwise to design and create a better Dasher navigation app
