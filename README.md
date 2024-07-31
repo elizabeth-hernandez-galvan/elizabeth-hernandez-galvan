@@ -1,30 +1,25 @@
 
 # Elizabeth Hernandez Galvan
-### **Junior Student at University of California, Davis --> Class of 2024**
+### **University of California, Davis --> Class of 2024**
 
 ## Main Interest: Website Design & Frontend Development
 - :computer: Languages I've Learned:
   - Python
   - C
   - HTML/CSS
+  - JavaScript
   
 - :open_file_folder: Languages I am currently Learning:
   - React
-  - JavaScript
   - C++
   - Kotlin
   - Flutter
   
-- :school: Current Studies: 
-  - UI/UX Design
-    - UC Davis Classes
-  - Programing
-    - UC Davis Classes
-  - Social media marketing
-    - Facebook Coursera Classes
+- :school: Studies: 
+  - BA in Design with a minor in Computer Science
     
 ## :office: Most Current Work
-  - Mac Laptop Refurbisher with iDream-The MAC Give Back Project (Summer 2022 - Current)
+  - Mac Laptop Refurbisher with iDream-The MAC Give Back Project (Summer 2022 - 2023)
     - Refurbished and enhanced used Apple devices and computers
     - Provide technical and educational support for Apple recipients
   - Front End developer working with #include on creating websites for nonprofits (2021-2022 School Year)
